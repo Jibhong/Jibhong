@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![Metrics](https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg)
 
 <!--
 **Jibhong/Jibhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
