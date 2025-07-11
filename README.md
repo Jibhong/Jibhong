@@ -1,5 +1,8 @@
-
-![Metrics](https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics">
+  <br>
+  <h2>🌳ปลูกป่าช่วยชาติ🌳</h2>
+</div>
 
 <!--
 **Jibhong/Jibhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
