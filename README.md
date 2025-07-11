@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics">
-  <br>
   <h3>🌳ปลูกป่าช่วยชาติ🌳</h3>
 </div>
 
