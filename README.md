@@ -6,10 +6,12 @@ I'm Interested in Competitive Programming, Web Development, AI and Game Developm
 
 I also do some 3D modeling, and fursuit making as a hobby.
 
-## 🌳 My Forest
-<img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics" height="250"> <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/Freaky.png" alt="Metrics" height="250">
+## 🌳 My Forest (The Greener The Better)
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics" height="250"> <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/Freaky.png" alt="Metrics" height="230">
+</p>
 
-## 💻 Random Skill Icons To Look Impressive
+## 💻 Random Skill Icons to Look Impressive
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
