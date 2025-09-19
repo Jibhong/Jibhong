@@ -1,19 +1,23 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics">
-  <h3>🌳ปลูกป่าช่วยชาติ🌳</h3>
-</div>
+# 👋 Hello, I'm Jibhong
 
-<!--
-**Jibhong/Jibhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer currently studying at Triam Udom Suksa School.
 
-Here are some ideas to get you started:
+I'm Interested in Competitive Programming, Web Development, AI and Game Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also do some 3D modeling, and fursuit making as a hobby.
+
+## 🌳 My Forest
+<img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.svg" alt="Metrics" height="250"> <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/Freaky.png" alt="Metrics" height="250">
+
+## 💻 Random Skill Icons To Look Impressive
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake,git,gitbash,github,gradle,mariadb,mysql,nodejs,npm,ollama,ffmpeg,platformio,pygame,sqlite"    /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,androidstudio,codeblocks,googlecolab,replit,robloxstudio,unity,unrealengine,vim,neovim,visualstudio,vscode"    /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,canva,gimp,davinci,illustrator,lightroom,lightroomclassic,photoshop,premiere,obs"    /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,c,cs,cpp,css,html,javascript,luau,python"    /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,libreoffice,notion,latex"    /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,manjaro,android"    /><br>
+  </a>
+</p>
