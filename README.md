@@ -8,9 +8,9 @@ I also do some 3D modeling, and fursuit making as a hobby.
 
 ## 🌳 My Forest (The Greener The Better)
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.iso.commit.svg" alt="Metrics" height="200">
+  <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics_iso_commit.svg" alt="Metrics" height="200">
   <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/Freaky.png" alt="Metrics" height="230">
-  <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics.languages.used.svg" alt="Metrics" height="150">
+  <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics_languages_used.svg" alt="Metrics" height="150">
 </p>
 
 ## 💻 Actually Stacking Tech Icons

@@ -9,16 +9,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.iso.commit.svg
+          filename: metrics_iso_commit.svg
           token: ${{ secrets.TOKEN }}
           committer_token: ${{ secrets.TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.languages.used.svg
+          filename: metrics_languages_used.svg
           token: ${{ secrets.TOKEN }}
           committer_token: ${{ secrets.TOKEN }}
           base: ""
