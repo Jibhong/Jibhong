@@ -4,7 +4,7 @@ I'm a self-taught developer currently studying at Triam Udom Suksa School.
 
 I'm Interested in Competitive Programming, Web Development, AI and Game Development.
 
-I also do some 3D modeling, and fursuit making as a hobby.
+I also do some 3D modeling, and creative stuffs.
 
 ## 🌳 My Forest (The Greener The Better)
 <p align="center">
@@ -23,5 +23,7 @@ I also do some 3D modeling, and fursuit making as a hobby.
     <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,canva,gimp,davinci,illustrator,lightroom,lightroomclassic,photoshop,premiere,obs"    /><br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,libreoffice,notion,latex"    /><br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,arch,manjaro,android"    /><br>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,firebase"    /><br>
+
   </a>
 </p>
