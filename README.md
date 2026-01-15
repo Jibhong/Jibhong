@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jibhong
+# 🙏 Hello, I'm Jibhong
 
 I'm a self-taught developer currently studying at Triam Udom Suksa School.
 
