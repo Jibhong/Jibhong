@@ -1,6 +1,6 @@
 # 🙏 Hello, I'm Jibhong
 
-I'm a self-taught developer currently studying at Triam Udom Suksa School.
+I'm currently studying at Triam Udom Suksa School na ja ❤️.
 
 I'm Interested in Competitive Programming, Web Development, AI and Game Development.
 
