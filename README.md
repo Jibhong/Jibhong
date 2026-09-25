@@ -1,19 +1,19 @@
-# 🙏 Hello, I'm Jibhong
+# Sawasdee Jra, I'm Jibhong.
 
 I'm currently studying at Triam Udom Suksa School na ja ❤️.
 
-I'm Interested in Competitive Programming, Web Development, AI and Game Development.
+I do Competitive Programming, Web Development, AI and Game Development,
 
-I also do some 3D modeling, and creative stuffs.
+also some 3D modeling, and creative stuffs.
 
-## 🌳🌳🌳 It's mostly github workflow 🌳🌳🌳
+## 🌳 Tree(s)
 <p align="center">
   <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics_iso_commit.svg" alt="Metrics" height="220">
   <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/Freaky.png" alt="Metrics" height="250">
   <img  src="https://raw.githubusercontent.com/jibhong/jibhong/master/metrics_languages_used.svg" alt="Metrics" height="160">
 </p>
 
-## 💻 Actually Stacking Tech
+## 💻 Below is where I stack random tech icons.
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
